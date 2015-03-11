@@ -11,6 +11,12 @@ Bitcoin payment via coinzone.com for WooCommerce.
 
 == Description ==
 
+Accept Bitcoins in just minutes, thanks to our [WooCommerce](http://www.woothemes.com/woocommerce/) plugin that is intuitive to use.
+
+Don't forget to signup for a merchant account by going to our [merchant control panel] (https://merchant.coinzone.com).
+
+== Installation ==
+
 System Requirements
 merchant.coinzone.com account
 Wordpress 3.9+
@@ -18,8 +24,6 @@ WooCommerce 2.2+
 PHP 5.4+
 Curl PHP Extension
 JSON PHP Extension
-
-== Installation ==
 
 The current version of the woocommerce plugin is version 1.1.2. It is available either by cloning this repository or downloading the .zip file from the download page.
 

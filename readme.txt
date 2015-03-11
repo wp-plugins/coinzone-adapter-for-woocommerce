@@ -16,9 +16,11 @@ Accept Bitcoins in just minutes, thanks to our [WooCommerce](http://www.wootheme
 Don't forget to signup for a merchant account by going to our [merchant control panel](https://merchant.coinzone.com).
 
 **Coinzone Support**
+
 * [Coinzone Support Site](https://support.coinzone.com)
 
 **WooCommerce Support**
+
 * [WooCommerce Homepage](http://www.woothemes.com/woocommerce/)
 * [WooCommerce Documentation](http://docs.woothemes.com/)
 * [WooCommerce Help Desk](https://support.woothemes.com/hc/en-us)

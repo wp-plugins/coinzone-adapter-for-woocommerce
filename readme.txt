@@ -18,12 +18,13 @@ Don't forget to signup for a merchant account by going to our [merchant control 
 == Installation ==
 
 **System Requirements**
-[merchant.coinzone.com account](https://merchant.coinzone.com)
-Wordpress 3.9+
-WooCommerce 2.2+
-PHP 5.4+
-Curl PHP Extension
-JSON PHP Extension
+
+* [merchant.coinzone.com account](https://merchant.coinzone.com)
+* Wordpress 3.9+
+* WooCommerce 2.2+
+* PHP 5.4+
+* Curl PHP Extension
+* JSON PHP Extension
 
 **Installation steps**
 The current version of the woocommerce plugin is version 1.1.2. It is available either by cloning this repository or downloading the .zip file from the download page.

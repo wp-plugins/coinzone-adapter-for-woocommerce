@@ -17,24 +17,25 @@ Don't forget to signup for a merchant account by going to our [merchant control 
 
 == Installation ==
 
-System Requirements
-merchant.coinzone.com account
+**System Requirements**
+[merchant.coinzone.com account](https://merchant.coinzone.com)
 Wordpress 3.9+
 WooCommerce 2.2+
 PHP 5.4+
 Curl PHP Extension
 JSON PHP Extension
 
+**Installation steps**
 The current version of the woocommerce plugin is version 1.1.2. It is available either by cloning this repository or downloading the .zip file from the download page.
 
-Upload files to your WordPress installation.
+1. Upload files to your WordPress installation.
 
-Go to your WordPress administration. Plugins -> Installed Plugins -> "coinzone-woocommerce" click [Install]
+1. Go to your WordPress administration. Plugins -> Installed Plugins -> "coinzone-woocommerce" click [Install]
 
-Go to your WordPress administration. WooCommerce -> Settings -> Checkout click [Coinzone]
+1. Go to your WordPress administration. WooCommerce -> Settings -> Checkout click [Coinzone]
 
-Don't have a Coinzone account? Sign up for free
+1. Don't have a Coinzone account? Sign up for free
 
-Fill in your Client Code and API Key. They can be found on the API tab of the Settings page in the Coinzone Control Panel.
+1. Fill in your Client Code and API Key. They can be found on the API tab of the Settings page in the Coinzone Control Panel.
 
 Have questions? Please visit our [customer support site](https://support.coinzone.com).
